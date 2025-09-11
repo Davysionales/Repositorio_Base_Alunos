@@ -1,0 +1,6 @@
+print("Olá Mundo!")
+print("Qualquer  frase")
+nome = input("Oi, qual é seu nome?\n")
+print("Seja bem vindo ",nome)
+idade = input("e a sua idade, qual é?\n")
+print('caramba, você tem ',idade, 'anos')
